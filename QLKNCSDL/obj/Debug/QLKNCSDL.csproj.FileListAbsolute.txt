@@ -1,0 +1,48 @@
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.exe
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.pdb
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe.config
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_baocao.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chinh.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chucvu.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_dantoc.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_nhanvien.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_tongiao.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.Properties.Resources.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csproj.GenerateResource.Cache
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_phongban.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.pdb
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csprojResolveAssemblyReference.cache
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe.config
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.exe
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.pdb
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.pdb
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_baocao.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chinh.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chucvu.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_dantoc.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_nhanvien.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_phongban.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_tongiao.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.Properties.Resources.resources
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csproj.GenerateResource.Cache
+D:\DAIHOCTRAVINH\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_thidua.resources
+G:\LienThongDHTraVinh\LTUNDWINDOWS\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_thidua.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe.config
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.exe
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\bin\Debug\QLKNCSDL.pdb
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csproj.AssemblyReference.cache
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_baocao.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chinh.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_chucvu.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_dantoc.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_nhanvien.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_phongban.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_thidua.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.frm_tongiao.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.Properties.Resources.resources
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csproj.GenerateResource.cache
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.csproj.CoreCompileInputs.cache
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.exe
+D:\các môn học DHTI15A21HN\thực hành lập trình.net\QuanLyNhanSu\QLKNCSDL\QLKNCSDL\obj\Debug\QLKNCSDL.pdb

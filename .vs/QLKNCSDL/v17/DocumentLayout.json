@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\tv_kncsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\tv_kncsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_dantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_dantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_chinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\clthaotac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\clthaotac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_tongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_tongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_thidua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_thidua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|d:\\c\u00E1c m\u00F4n h\u1ECDc dhti15a21hn\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\quanlynhansu\\qlkncsdl\\qlkncsdl\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D8F9E8B-316A-4938-A9F6-4AF379B16490}|QLKNCSDL\\QLKNCSDL.csproj|solutionrelative:qlkncsdl\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_chinh.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chinh.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_chinh.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chinh.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_chinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:50:32.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_phongban.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_phongban.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_phongban.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_phongban.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_phongban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:46:30.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_dantoc.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_dantoc.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_dantoc.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_dantoc.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_dantoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:20:08.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TV_KNCSL.cs",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\TV_KNCSL.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\TV_KNCSL.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\TV_KNCSL.cs",
+              "RelativeToolTip": "QLKNCSDL\\TV_KNCSL.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:53:42.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_baocao.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_baocao.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_baocao.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_baocao.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_baocao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:50:27.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_chucvu.cs",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chucvu.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_chucvu.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chucvu.cs",
+              "RelativeToolTip": "QLKNCSDL\\frm_chucvu.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:11:46.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_chucvu.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chucvu.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_chucvu.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chucvu.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_chucvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:50:34.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_chinh.cs",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chinh.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_chinh.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_chinh.cs",
+              "RelativeToolTip": "QLKNCSDL\\frm_chinh.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:55:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_tongiao.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_tongiao.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_tongiao.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_tongiao.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_tongiao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:46:32.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_thidua.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_thidua.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_thidua.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_thidua.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_thidua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:46:33.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clthaotac.cs",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\clthaotac.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\clthaotac.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\clthaotac.cs",
+              "RelativeToolTip": "QLKNCSDL\\clthaotac.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:46:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_nhanvien.cs [Design]",
+              "DocumentMoniker": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_nhanvien.cs",
+              "RelativeDocumentMoniker": "QLKNCSDL\\frm_nhanvien.cs",
+              "ToolTip": "D:\\c\u00E1c m\u00F4n h\u1ECDc DHTI15A21HN\\th\u1EF1c h\u00E0nh l\u1EADp tr\u00ECnh.net\\QuanLyNhanSu\\QLKNCSDL\\QLKNCSDL\\frm_nhanvien.cs [Design]",
+              "RelativeToolTip": "QLKNCSDL\\frm_nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:50:36.871Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1387,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
